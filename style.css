@@ -1,0 +1,58 @@
+/*
+    Nome Completo: Juan Peres Ruiz
+    RU: 4850275
+*/
+
+/* Estilos gerais da página */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #3a3a3a;
+    color: #ffffff;
+}
+
+/* Estilo da lista */
+li {
+    list-style: none; /* Remove os marcadores */
+    text-align: center;
+    background-color: #111111;
+    padding: 10px 0;
+}
+
+/* Estilo dos links dentro da lista */
+li a {
+    text-decoration: none; /* Remove o sublinhado dos links */
+    color: white;
+    margin: 0 15px;
+    padding: 8px 15px;
+    border-radius: 4px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+/* Efeito de hover nos links */
+li a:hover {
+    background-color: #555; /* Altera a cor de fundo ao passar o mouse para um cinza */
+}
+
+/* Estilo para o cabeçalho */
+header {
+    margin-left: 2%;
+}
+
+/* Estilo para as sections */
+section {
+    margin-left: 2%;
+}
+
+/* Estilo para parágrafos */
+p {
+    font-weight: 100;
+}
+
+/* Cor do link dentro de parágrafos */
+p a {
+    color: aqua;
+}
+
+  
